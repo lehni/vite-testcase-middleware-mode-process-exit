@@ -1,0 +1,15 @@
+{
+  "name": "vite-testcase-middleware-mode-process-exit",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node-dev index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "node-dev": "^7.4.2",
+    "vite": "^2.9.1"
+  }
+}
